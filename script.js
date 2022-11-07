@@ -1,3 +1,3 @@
 $(window).scroll(function () {
-    $('.bg-transprent').toggleClass('scrolled',$(this).scrollTop()>10)
+    $('.bg-transprent').toggleClass('scrolled',$(this).scrollTop()>100)
   })
